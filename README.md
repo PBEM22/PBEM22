@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-4574E0.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />   
 
 <h4>Back-End</h4>
-<img src="https://img.shields.io/badge/java-F44336.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-8BC34A.svg?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/security-20232a.svg?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/java-F44336.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-8BC34A.svg?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/security-20232a.svg?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/docker-1488C6.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />     
+<img src="https://img.shields.io/badge/docker-1488C6.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />     
 
 <h2>Tool's</h2>
 <img src="https://img.shields.io/badge/notion-white.svg?style=for-the-badge&logo=notion&logoColor=black" /> <img src="https://img.shields.io/badge/git-F14232.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -40,7 +40,6 @@
 <br>
 <br>
 <br>
-
 
 
 

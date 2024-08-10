@@ -2,7 +2,7 @@
   
 ![PBEM22](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=PBEM22%20&fontSize=90)  
 
-  <h2>🏳️‍🌈 성장하는 개발자 PBEM22 🏳️‍🌈 </h2> 
+  <h2>🏳️‍🌈🏳️‍🌈 성장하는 개발자 PBEM22 🏳️‍🌈🏳️‍🌈 </h2> 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBEM22&layout=compact) 
 
@@ -22,7 +22,7 @@
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-<h2>Contact</h2>
+<h2>🌈 Contact</h2>
 <a href="https://velog.io/@publeman">
   <img src="https://img.shields.io/badge/velog-1EBC8F.svg?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
@@ -44,14 +44,6 @@
 
 
 ![PBEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBEM22&show_icons=true&theme=dark&count_private=true)  
-
-
-
-<div align="center" style="text-align:center">
-  
-  [![🌈 Velog's 절찬 상영 중](https://velog-readme-stats.vercel.app/api?name=${publeman}&tag=${백준}&color=${dark})](${https://velog.io/@publeman/posts})
-  
-</div>
 
 
 

@@ -26,12 +26,12 @@
 <a href="https://velog.io/@publeman">
   <img src="https://img.shields.io/badge/velog-1EBC8F.svg?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
-<a href="https://www.discord.com/users/323169081908002818">
+<!-- <a href="https://www.discord.com/users/323169081908002818">
   <img src="https://img.shields.io/badge/discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/dlacofbs/">
+</a> -->
+<!-- <a href="https://www.instagram.com/dlacofbs/">
   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</a> -->
 <a href="mailto:dlacofbs1229@gmail.com">
   <img src="https://img.shields.io/badge/dlacofbs1229@Gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>

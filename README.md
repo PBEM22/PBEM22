@@ -2,8 +2,8 @@
   
 ![PBEM22](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=PBEM22%20&fontSize=90)  
 
-  <h2>🏳️‍🌈🏳️‍🌈 성장궤도 PBEM22 🏳️‍🌈🏳️‍🌈 </h2> 
-  
+  <h2>🏳️‍🌈🏳️‍🌈 다채로운 사고를 지닌 개발자 PBEM22 🏳️‍🌈🏳️‍🌈 </h2> 
+   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBEM22&layout=compact) 
 
 <a href="https://github.com/devxb/gitanimals">

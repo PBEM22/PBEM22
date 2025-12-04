@@ -1,11 +1,9 @@
 <div align="center">
   
-![PBEM22](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=PBEM22%20&fontSize=90)  
+![PBEM22](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=임채륜%20&fontSize=50)  
 
-  <h2>🏳️‍🌈🏳️‍🌈 다채로운 사고를 지닌 개발자 PBEM22 🏳️‍🌈🏳️‍🌈 </h2> 
+  <h2>협업과 개발 생산성을 중시하는 개발자 임채륜입니다.</h2> 
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBEM22&layout=compact) 
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/PBEM22"
@@ -53,7 +51,7 @@
 
 <h2> 🧮 Status </h2>
 
-![PBEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBEM22&show_icons=true&theme=dark&count_private=true)  
+<!-- ![PBEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBEM22&show_icons=true&theme=dark&count_private=true) -->
 
 <br>
 

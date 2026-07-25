@@ -2,7 +2,7 @@
   
 ![PBEM22](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=임채륜%20&fontSize=50)  
 
-  <h2>협업과 개발 생산성을 중시하는 개발자 임채륜입니다.</h2> 
+  <h2>협업과 개발 생산성을 중시하는 엔지니어 임채륜입니다.</h2> 
    
 <a href="https://github.com/devxb/gitanimals">
 <img

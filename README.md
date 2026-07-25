@@ -51,7 +51,7 @@
 
 <h2> 🧮 Status </h2>
 
-![PBEM's GitHub stats](https://github-readme-statss-wine.vercel.app/api?username=PBEM22&show_icons=true&theme=dark)
+<!-- ![PBEM's GitHub stats](https://github-readme-statss-wine.vercel.app/api?username=PBEM22&show_icons=true&theme=dark) -->
 
 <br>
 

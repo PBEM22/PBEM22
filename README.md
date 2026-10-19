@@ -12,7 +12,6 @@
 |---|---|---|
 | 매주 반복되던 시스템 간 재고 불일치 (실무, ERP·MES) | 수불 로그 5일치로 원인 추적, 마스터 코드 정비, MSSQL 프로시저 4건 수정, 3주간 재발 확인 | 수동 수정 요청 주 4건 → **0건** |
 | 동시 요청 시 크레딧 차감 누락 ([HOUME](https://github.com/TEAM-HOUME/HOUME-SERVER)) | JMeter로 재현 → Redisson 분산락 적용 → 같은 테스트로 재검증 | 차감 누락 재발 없음 |
-| 외부 AI 서버 장애가 서비스 전체로 전파 ([HOUME](https://github.com/TEAM-HOUME/HOUME-SERVER)) | Sentry로 발견 → 서킷 브레이커로 차단 | 관련 오류 **95% 감소** |
 | 조회 API 응답 지연 ([HOUME](https://github.com/TEAM-HOUME/HOUME-SERVER)) | Grafana로 발견 → traceId 로그로 원인 추적 → 캐시 적용 | **200ms → 20ms** |
 | 재연결 시 실시간 알림 유실 ([MediHub](https://github.com/PBEM22/medihub)) | SSE Last-Event-ID 이후 이벤트 재전송 | 알림 유실 **0건** |
 | 다중 파드 환경 세션 불일치 ([MediHub](https://github.com/PBEM22/medihub)) | Redis 세션 클러스터링 | 파드 변경 시에도 로그인 유지 |
